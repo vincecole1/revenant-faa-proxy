@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/faa.js": {
+      "maxDuration": 10
+    }
+  }
+}
