@@ -1,0 +1,5 @@
+{
+  "name": "revenant-faa-proxy",
+  "version": "1.0.0",
+  "description": "FAA registry proxy for Revenant Collective aircraft tool"
+}
